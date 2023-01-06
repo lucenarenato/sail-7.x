@@ -1,13 +1,13 @@
 # Laravel Sail-7.x
 
-Laravel sail for Laravel 7 apps.
+Laravel sail for Laravel 5,6 or 7 apps.
 
 ## Installation
 
 Use the package manager [composer](https://getcomposer.org/) to install package.
 
 ```bash
-composer install ajuchacko/sail-7.x --dev
+composer install lucenarenato/sail-7.x --dev
 ```
 ## Usage
 
@@ -42,3 +42,5 @@ Documentation for Sail can be found on the [Laravel website](https://laravel.com
 ## License
 
 Laravel Sail is open-sourced software licensed under the [MIT license](LICENSE.md).
+
+- Renato Lucena [developer](https://renatolucena.net/) 

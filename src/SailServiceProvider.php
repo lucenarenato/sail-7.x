@@ -1,6 +1,6 @@
 <?php
 
-namespace Ajuchacko\Sail;
+namespace Lucenarenato\Sail;
 
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\Facades\Artisan;
